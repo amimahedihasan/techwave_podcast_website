@@ -1,40 +1,146 @@
-# 🎙️ TechWave - Podcast Website
+## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
 
-Welcome to **TechWave**, a modern and fully responsive podcast website. This project was developed as part of **Assignment-002**, focusing on HTML5, CSS3/Tailwind CSS, and responsive web design principles.
+---
 
-## 🚀 Live Demo
-[Insert Your Live Website Link Here]
+📅 Deadline For 60 marks: 20th January, 2026 (11:59 pm ⏱️)
 
-## 🛠️ Features
-- **Responsive Navigation:** A clean navbar with a gradient button that transforms into a hamburger menu on mobile.
-- **Hero Banner:** Eye-catching banner with a "New" badge effect on the podcast view.
-- **Why Choose Us:** Feature cards showcasing the platform's strengths.
-- **Featured Episodes:** Embedded YouTube podcast episodes for direct viewing.
-- **Host Profile:** Dedicated section for the podcast host with a professional bio.
-- **Fully Responsive:** Optimized for Small (up to 576px) and Large (above 992px) devices.
+📅 Deadline For 50 marks: 21th January, 2026 (11:59 pm ⏱️)
 
-## 💻 Tech Stack
-- **HTML5:** Semantic structure.
-- **CSS3 / Tailwind CSS:** Custom styling and responsive layouts.
-- **No JavaScript:** Pure CSS implementation as per requirements.
+📅 Deadline For 30 marks: Any time after 21th January.
+
+# TechWave - Podcast Website
+
+## ❓ Common Questions & Answers
+
+**Can I use different images?**
+
+- Yes, you may use any relevant images.
+
+**Can I change the alignment and design freely?**
+
+- No. You must follow the alignment and layout shown in the Figma design.
+
+**Can I change colors?**
+
+- Yes, as long as the colors are relevant and visually consistent.
+
+**Do I need to make the page pixel-perfect?**
+
+- No. You can use your own margin and padding while following the overall structure from Figma.
+
+---
+
+## 📌 Assignment Requirements
+
+### ✅ Main Requirements (50 Marks)
+
+### Navbar
+
+- **Desktop/Laptop/Large Device:**
+  - Logo on the Left
+  - Menu Items in the Center (like Figma design)
+  - Gradient Button on the Right
+- **Mobile Device:**
+  - Hidden nav items with hamburger menu icon
+  - Fully responsive navigation
+
+### Banner Section
+
+- **Desktop/Laptop/Large Device:**
+  - Background Image
+  - Center-aligned podcast circle view with visual effects
+  - Relevant heading and descriptive text at center
+  - Two call-to-action buttons below the text
+- **Mobile Device:**
+  - Mobile responsive layout matching Figma design
 
 
-## 📂 Project Structure
-Based on the current organization, the project files are structured as follows:
+### About Section
 
-- **`index.html`**: The main HTML file containing the website structure.
-- **`styles/`**: Contains general global styles.
-- **`mobile/`**: CSS specific to small devices (up to 576px).
-- **`small laptop/`**: CSS for medium/laptop screens.
-- **`standered-laptop/`**: CSS for standard desktop displays.
-- **`images/`**: Folder for all images.
-- **`README.md`**: Project documentation.
+- **Desktop/Laptop/Large Device:**
+  - Heading with descriptive text at the top
+  - 4 statistics items displayed in a row with proper styling
+- **Mobile Device:**
+  - 4 statistics items responsive layout (2x2 grid stacked on mobile)
 
-## 💻 Tech Stack
-- **HTML5**
-- **CSS3** (Custom properties and Media Queries)
-- **Responsive Design** (Small, Medium, and Large breakpoints)
+### Why Choose Section
 
-## 👤 Author
-- **[Md. Mahedi Hasan]**
-- Assignment-002 | TechWave Project
+- **Desktop/Laptop/Large Device:**
+  - 5 feature cards layout matching Figma design
+  - Each card contains: icon, title, and description
+- **Mobile Device:**
+  - Fully responsive card layout
+  - Single column layout on mobile devices
+
+### Featured Episodes Section
+
+- **Desktop/Laptop/Large Device:**
+  - 3 featured episode cards layout
+  - Each card includes: title, description, and duration
+  - YouTube video links embedded in cards
+- **Mobile Device:**
+  - Responsive card layout for mobile devices
+
+### Footer Section
+
+- **Desktop/Laptop/Large Device:**
+  - Center-aligned layout with brand and platform information
+  - Copyright information with horizontal line separator
+- **Mobile Device:**
+  - Responsive footer layout maintaining readability
+
+---
+
+## 🚀 CHALLENGES (10 Marks)
+
+### Host Section
+
+- **Desktop/Laptop/Large Device:**
+  - Image on the left with host name, biography, and social media icons
+  - Professional layout with proper alignment
+- **Mobile Device:**
+  - Responsive layout with stacked design for mobile view
+
+### Additional Challenges
+
+- Implement smooth animations on any buttons or sections for enhanced user experience
+- Minimum 5 commits on GitHub with meaningful commit messages
+- No Lorem Ipsum content - use relevant, meaningful text
+- "New" badge in the podcast circle view positioned exactly as per Figma design
+
+---
+
+### Responsive Breakpoints
+
+- **Small device:** up to 576 px 
+- **Medium Device:** 576px to 992 px (Optional)
+- **Large Device:** above 992 px 
+
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3/Tailwind CSS
+- No JavaScript
+
+---
+
+## ✅ Submission Checklist
+
+- Figma layout followed correctly
+- Proper alignment and spacing
+- Clean and readable HTML & CSS
+- Each Section are responsive with proper breakpoints
+- Live site deployed
+- Public GitHub repository
+
+---
+
+## 📂 Submission Format
+
+- **GitHub Repository Link**
+- **Live Website Link (GitHub Pages)**
+
+---
