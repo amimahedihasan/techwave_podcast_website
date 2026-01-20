@@ -1,3 +1,109 @@
-h2{
-    color: aquamarine;
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.inter-font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+}
+
+
+.bg-color{
+    background-color: #1A0B2E;
+}
+
+.bars{
+    display: none;
+}
+/* shared style */
+.primary-btn{
+    border: none;
+    border-radius: 10000px;
+    padding: 0.75rem 1rem;
+    font-size:1rem ;
+    font-weight:600 ;
+    color:white ;
+    background: linear-gradient(35deg,#F7E93F 10%, #FB09B4 51%, #9100F8 100% );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+
+
+}
+
+.primary-btn:hover{
+    background:#9100F8;
+}
+
+.secondary-btn{
+    border: 1px solid #00FF88;
+    border-radius: 10000px;
+    padding: 0.75rem 1.25rem;
+    background-color: transparent;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #00FF88;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.secondary-btn:hover{
+    background-color: #9100F8;
+    border: 1px solid transparent;
+}
+
+.btn-img{
+    vertical-align: middle;
+}
+
+.margin{
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.center{
+    justify-content: center;
+}
+
+/* main style */
+
+
+/* Navbar related Style */
+header{
+    background-color: #1A0B2E;
+    padding: 1.5rem 12.5rem;
+    border-bottom: 1px solid #412567;
+}
+.navbar{
+    justify-content: space-between;
+    max-width: 1200px;
+}
+
+.menu{
+    list-style: none;
+    align-items: center;
+}
+.menu-list{
+    gap: 2rem;
+}
+.menu-item{
+    text-decoration: none;
+    font-size:1rem ;
+    font-weight:500 ;
+    color: #FFFFFF;
+    line-height: 120%;
+    opacity: 90%;
 }
