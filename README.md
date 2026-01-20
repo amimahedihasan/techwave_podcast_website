@@ -2,6 +2,9 @@
 
 **TechWave** is a modern and fully responsive podcast website built using HTML5 and CSS3. This project was developed as a part of **Assignment-002**, focusing on clean layout design and advanced responsive breakpoints.
 
+## 🚀 Live Demo
+[https://amimahedihasan.github.io/techwave_podcast_website]
+
 ## 🛠️ Assignment Requirements
 - **Responsive Navigation:** Features a gradient button and centered menu items on desktop, transforming into a mobile-friendly hamburger menu for small devices.
 - **Hero Banner:** Includes a centered podcast circle view with a custom CSS "New" badge as per the Figma design.
